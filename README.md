@@ -1,90 +1,89 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B500&height=250&section=header&text=Fatou%20Wade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=60"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=F7B500&center=true&vCenter=true&width=900&lines=👋+Bonjour,+je+suis+Fatou+Wade;🎓+Étudiante+en+Génie+Logiciel;💻+Backend+Developer;🚀+Laravel+•+Spring+Boot+•+Flutter;🔐+Building+Secure+Applications;✨+Always+Learning"/>
-</p>
+# 👋 Hi, I'm Fatou Wade
 
-<p align="center">
+### Software Engineering Student • Backend Developer • Mobile Developer
 
-<a href="https://github.com/Fatou03">
-<img src="https://img.shields.io/badge/GitHub-Fatou03-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+%7C+Spring+Boot;Flutter+Developer;Building+Secure+Applications"/>
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<br>
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Fatou03-181717?style=for-the-badge&logo=github)](https://github.com/Fatou03)
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-# 👩‍💻 About Me
+# 👩 About Me
 
-🎓 Software Engineering student passionate about building reliable, secure and user-friendly applications.
+I'm a **Software Engineering student** passionate about designing reliable and secure applications.
 
-💻 I enjoy designing **Backend systems**, developing **REST APIs**, creating **Web & Mobile applications**, and continuously learning new technologies.
+My interests include:
 
-🚀 Currently looking for opportunities to grow as a **Backend Developer** while contributing to meaningful projects.
+- ⚙️ Backend Development
+- 🌐 Web Applications
+- 📱 Mobile Development
+- 🔐 Application Security
+- 🤖 Artificial Intelligence
 
----
-
-# ⚡ Tech Stack
-
-### 💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,java,python,js,dart,c"/>
-</p>
-
-### 🚀 Frameworks
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,spring,flutter,django,bootstrap"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
-
-### 🛠️ Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-</p>
+I enjoy learning new technologies and transforming ideas into practical software solutions.
 
 ---
 
-# 🌟 Featured Projects
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+### Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 ## 🔐 Digital Safe
 
-**Secure Digital Vault**
+> Secure Digital Vault
 
-A secure mobile application designed to safely store and manage digital documents.
+A mobile application designed to securely store and manage digital documents.
 
-### 🚀 Technologies
+**Technologies**
 
-- Flutter
-- Spring Boot
+Flutter • Spring Boot • REST API • Docker
+
+**Highlights**
+
+- Secure authentication
+- Digital document management
 - REST API
-- Docker
-
-### ✨ Features
-
-- 🔐 Secure authentication
-- 📂 Digital document management
-- 🌐 RESTful API
-- 📱 Mobile application
-- 🐳 Docker deployment
-- ✅ User testing and validation
+- Docker deployment
+- User testing
 
 ---
 
@@ -92,75 +91,50 @@ A secure mobile application designed to safely store and manage digital document
 
 A Laravel web application for managing students and academic programs.
 
-### 🚀 Technologies
+**Technologies**
 
-- Laravel
-- PHP
-- MySQL
-- Bootstrap
+Laravel • PHP • MySQL • Bootstrap
 
-### ✨ Features
+**Highlights**
 
-- 👨‍🎓 Student management
-- 📚 Academic program management
-- 🔍 Advanced multi-criteria search
-- 📄 Pagination
-- 🔗 Eloquent relationships
-- 🏗️ MVC Architecture
+- Student management
+- Academic program management
+- Multi-criteria search
+- Pagination
+- MVC Architecture
+- Eloquent Relationships
 
-🔗 **Repository**
+🔗 Repository
 
-**https://github.com/Fatou03/student-manager**
+https://github.com/Fatou03/student-manager
 
 ---
 
 ## 📋 Workflow Management
 
-Web application developed with Laravel to monitor and manage business workflows.
-
-**Technologies**
-
-- Laravel
-- Bootstrap
-- JavaScript
+Workflow management application developed with Laravel.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fatou03&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fatou03&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatou03&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatou03&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Fatou03&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 Highlights
+# 🔥 GitHub Streak
 
-✔ Backend Development
+<div align="center">
 
-✔ REST API Design
+<img src="https://streak-stats.demolab.com?user=Fatou03&theme=github-dark&hide_border=true"/>
 
-✔ Laravel MVC Architecture
-
-✔ Spring Boot
-
-✔ Mobile Development with Flutter
-
-✔ MySQL & PostgreSQL
-
-✔ Docker
-
-✔ Git & GitHub
+</div>
 
 ---
 
@@ -170,54 +144,22 @@ Web application developed with Laravel to monitor and manage business workflows.
 - Spring Boot
 - Software Architecture
 - Docker
+- REST API Design
 - Artificial Intelligence
-- Data Analysis
-- Clean Code & Design Patterns
 
 ---
 
-# 🎯 2026 Goals
+# 📫 Connect With Me
 
-🚀 Build impactful web applications
-
-🔐 Develop secure REST APIs
-
-🌍 Contribute to open-source projects
-
-💼 Join a professional development team
-
-📚 Keep learning every day
+- 💻 GitHub: https://github.com/Fatou03
+- 📧 Email: fatou.wade3@univ-thies.sn
 
 ---
 
-# 📫 Connect with Me
+<div align="center">
 
-<p align="center">
+### 💡 *"Building secure, scalable and meaningful software one project at a time."*
 
-<a href="mailto:fatou.wade3@univ-thies.sn">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+⭐ Thanks for visiting my profile!
 
-<a href="https://github.com/Fatou03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-> 💡 *"I believe every project is an opportunity to learn, improve, and build solutions that make a difference."*
-
-</p>
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7B500&height=120&section=footer"/>
-</p>
+</div>
