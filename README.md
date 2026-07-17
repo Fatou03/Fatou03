@@ -149,11 +149,19 @@ I'm currently improving my skills in:
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect with Me
 
-📧 **Email:** fatou.wade3@univ-thies.sn
+<p align="center">
 
-💻 **GitHub:** https://github.com/Fatou03
+<a href="mailto:fatou.wade3@univ-thies.sn">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Fatou03">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
